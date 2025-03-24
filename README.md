@@ -32,34 +32,52 @@ https://kuryana.vercel.app/id/{mydramalist-slug}
 https://kuryana.vercel.app/id/{mydramalist-slug}/cast
 ```
 
+- [Get DRAMA Episodes](https://kuryana.vercel.app/id/{id}/episodes)
+
+```
+
+https://kuryana.vercel.app/id/{mydramalist-slug}/episodes
+
+```
+
 - [Get DRAMA Reviews](https://kuryana.vercel.app/id/{id}/reviews)
 
 ```
+
 https://kuryana.vercel.app/id/{mydramalist-slug}/reviews
+
 ```
 
 - [Get Person(People) Info](https://kuryana.vercel.app/people/)
 
 ```
+
 https://kuryana.vercel.app/people/{people-id}
+
 ```
 
 - [Get seasonal drama](https://kuryana.vercel.app/seasonal/)
 
 ```
+
 https://kuryana.vercel.app/seasonal/{year}/{quarter}
+
 ```
 
 - [Get Lists](https://kuryana.vercel.app/list/)
 
 ```
+
 https://kuryana.vercel.app/list/{id}
+
 ```
 
 - [Get User Dramalist](https://kuryana.vercel.app/dramalist/)
 
 ```
+
 https://kuryana.vercel.app/dramalist/{user_id}
+
 ```
 
 ### Error Messages
